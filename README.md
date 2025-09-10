@@ -1,4 +1,4 @@
-ext Similarity with MinHash and LSH
+Text Similarity with MinHash and LSH
 
 This project detects similar paragraphs in a text file using shingling, MinHash, and Locality Sensitive Hashing (LSH). It is useful for identifying duplicate content, plagiarism, or near-duplicate documents.
 
